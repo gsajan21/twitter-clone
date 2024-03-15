@@ -11,21 +11,21 @@ export type WhoToFollowItem = {
       name: "Elon Musk",
       username: "elonmusk",
       avatar:
-        "https://pbs.twimg.com/profile_images/1383184766959120385/MMb6hmm8_400x400.jpg",
+        "stist",
     },
     {
       id: 2,
       name: "Sundar Pichai",
       username: "sundarpichai",
       avatar:
-        "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
+        "",
     },
     {
       id: 3,
-      name: "Yogesh Kumar",
-      username: "yogesh",
+      name: "Sajan Gurung",
+      username: "gsajan21",
       avatar:
-        "https://pbs.twimg.com/profile_images/1383184766959120385/MMb6hmm8_400x400.jpg",
+        "https://twitter.com/gsajan22/photo",
     },
   ];
   
